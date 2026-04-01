@@ -9,4 +9,5 @@ const DynamicCardLayout = () => {
   );
 };
 
+
 export default DynamicCardLayout;
