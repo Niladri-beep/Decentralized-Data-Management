@@ -1,4 +1,5 @@
 
+
 # Decentralized Identity Management System (DIMS)
 
 This project is a Decentralized Identity Management System (DIMS) built using blockchain technology. It leverages a decentralized architecture to provide secure and tamper-proof identity management, ensuring privacy and security for the user data. The system uses React and Tailwind CSS for the frontend, Express.js and MongoDB for the backend, and Ethereum Blockchain with Solidity smart contracts, powered by Ganache, Ether.js, and Hardhat for blockchain interactions.
